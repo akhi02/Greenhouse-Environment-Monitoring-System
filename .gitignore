@@ -1,0 +1,12 @@
+# Compiled binary / objects
+greenhouse_monitor
+*.o
+*.out
+*.elf
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
